@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Marcel Manzano!
+- 👋 Hi, I’m Marlu0!
 - 💻 I’m currently studying Computer Engineering while working at NTTDATA
 - 🧩 I’m looking to collaborate on projects of both high and low level programming. I just want to learn as much as possible!
