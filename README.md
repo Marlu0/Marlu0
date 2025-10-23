@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Marlu0
-- 💻 I’m currently studying Computer Engineering
+- 👋 Hi, I’m Marcel Manzano!
+- 💻 I’m currently studying Computer Engineering while working at NTTDATA
 - 🧩 I’m looking to collaborate on projects of both high and low level programming. I just want to learn as much as possible!
-
-<!---
-Marlu0/Marlu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
