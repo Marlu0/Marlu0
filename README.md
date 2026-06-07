@@ -1,2 +1,0 @@
-- 👋 Hi, I’m Marlu0!
-- 🧩 I’m looking to collaborate on projects of both high and low level programming. I just want to learn as much as possible!
